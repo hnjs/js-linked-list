@@ -9,7 +9,7 @@
  * Date			: Jun 6 2015
  * description	: Forked from DevLeague github account and solved for fun, entertainment & learning
  */
-
+ 
 function linkedListGenerator(){
 	function LinkedList() {
 		this.length = 0;
